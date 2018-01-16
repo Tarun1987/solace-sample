@@ -1,0 +1,10 @@
+E:\Git\SolaceSample\SolaceCaller\bin\Debug\libeay32.dll
+E:\Git\SolaceSample\SolaceCaller\bin\Debug\libsolclient.dll
+E:\Git\SolaceSample\SolaceCaller\bin\Debug\ssleay32.dll
+E:\Git\SolaceSample\SolaceCaller\bin\Debug\SolaceCaller.dll
+E:\Git\SolaceSample\SolaceCaller\bin\Debug\SolaceCaller.pdb
+E:\Git\SolaceSample\SolaceCaller\bin\Debug\SolaceSystems.Solclient.Messaging.dll
+E:\Git\SolaceSample\SolaceCaller\bin\Debug\SolaceSystems.Solclient.Messaging.xml
+E:\Git\SolaceSample\SolaceCaller\obj\Debug\SolaceCaller.csprojResolveAssemblyReference.cache
+E:\Git\SolaceSample\SolaceCaller\obj\Debug\SolaceCaller.dll
+E:\Git\SolaceSample\SolaceCaller\obj\Debug\SolaceCaller.pdb
